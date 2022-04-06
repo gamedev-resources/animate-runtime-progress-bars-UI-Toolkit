@@ -19,7 +19,7 @@ UI Toolkit does not have the ability to do masking, nor does it hook directly in
 1.	You need [Unity 2020.3.0f1 (LTS)](https://unity3d.com/get-unity/download) or later to follow along with this tutorial.
 2.	This tutorial assumes you already have basic knowledge of Unity and intermediate knowledge of C#.
 
-> Tutorials may work with earlier versions. The version referenced is the on I used.
+> Tutorials may work with earlier versions.
 
 ## Resources
 
