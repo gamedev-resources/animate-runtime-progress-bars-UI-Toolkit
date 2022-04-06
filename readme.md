@@ -1,4 +1,4 @@
-> ## View the entire tutorial on [GameDev Resources](https://gamedev-resources.com/animate-runtime-progress-bars-with-ui-toolkit/).
+> ## Follow the tutorial on [GameDev Resources](https://gamedev-resources.com/animate-runtime-progress-bars-with-ui-toolkit/).
 
 # Animate runtime progress bars with UI Toolkit
 
